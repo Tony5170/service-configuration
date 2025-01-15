@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://prod-server:5432/client_prodDB
+    username: prod_user
+    password: prod_pass
